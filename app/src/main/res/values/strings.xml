@@ -1,0 +1,202 @@
+<resources>
+    <string name="app_name">Entrepreneur Development</string>
+
+    <string name="self">Information:-\n
+        Self-Help Group (SHG) awareness promotes grassroots organizations that unite
+        individuals for mutual support and development. These groups focus on economic
+        empowerment through collective savings and credit activities, fostering social
+        cohesion. Awareness initiatives highlight benefits like financial inclusion and skill
+        development, acknowledging challenges. Success stories showcase improved
+        livelihoods. Government and NGO support contribute to sustainability.
+        SHG awareness is crucial for fostering resilient and empowered communities. </string>
+
+    <string name="woman">Information:-\n
+        Women empowerment is a comprehensive concept encompassing social, economic, and
+        political dimensions. It involves breaking down gender-based barriers, providing
+        opportunities, and enabling women to participate fully in all aspects of life.
+        Key aspects include access to education, healthcare, and economic resources, along
+        with equal opportunities in the workplace. Empowerment also entails promoting women
+        involvement in decision-making and challenging stereotypes. By fostering women empowerment,
+        societies can unlock the potential of their female population, leading to greater social equity,
+        economic development, and overall progress. It is both a matter of justice and a strategic
+        imperative for building a more inclusive and sustainable world.
+        </string>
+
+    <string name="ltg">Information:-\n
+        Local to Global encapsulates the process of entities, initiatives, or ideas expanding
+        from a local to a global scale. In business, companies often start locally before entering
+        global markets, requiring strategic adaptations. Similarly, technological advancements
+        and social shifts involve integrating global perspectives. The trajectory from local to
+        global signifies evolution, collaboration, and adaptation across various sectors,
+        emphasizing the interconnectedness of the world and the need for holistic approaches
+        to address global challenges.
+        </string>
+
+    <string name="per">Information:-\n
+        Personality development is a lifelong process involving the refinement of traits,
+        behaviors, and emotional patterns. Influenced by genetics, environment, and
+        experiences, it is crucial for holistic growth. Interactions in familial, cultural,
+        and societal spheres, along with education, shape social, emotional, and intellectual
+        aspects. Self-awareness is key for informed decision-making. Emotional intelligence
+        and coping skills contribute to mental well-being. Goal setting and commitment to
+        values guide development. It\'s a dynamic process requiring continuous self-reflection,
+        adaptability, and an open-minded approach, leading to a well-rounded and evolving
+        individual throughout life.
+    </string>
+
+    <string name="fap">Information:-\
+        Finance and planning, integral for resource management in business and personal
+        contexts, involve judicious use of money and strategic goal-setting. In businesses,
+        financial planning forecasts needs, optimizes performance, and aligns with strategic
+        goals. The collaboration ensures harmony between financial objectives and
+        organizational vision, facilitating effective decision-making. In personal finance,
+        planning includes budgeting, saving, and investing for stability. This dynamic
+        relationship is crucial for navigating complexities in both business and personal
+        landscapes, providing a structured approach for realizing aspirations and maintaining
+        financial well-being.
+        </string>
+
+    <string name="candle">Information:-\n
+        Candle making blends creativity with practicality, shaping wax into beautiful sources of
+        light. Enthusiasts use various wax types, colors, scents, and molds for diverse designs.
+        The process involves melting wax, adding dyes and fragrances, and pouring into molds. From
+        traditional to intricate creations, candle making offers endless possibilities. Many enjoy
+        it as a hobby, while entrepreneurs turn it into a business, offering unique, handmade candles
+        appreciated for their personal touch. Beyond art, it\'s a therapeutic experience, yielding
+        functional and aesthetically pleasing products. Whether for personal use or sale, handmade
+        candles add warmth and ambiance to any setting.
+        </string>
+
+    <string name="dm">Information:-\n
+        Digital marketing is a dynamic approach using online channels to engage a target
+        audience. Key elements include SEO for improved search visibility, content marketing
+        for creating valuable content, social media for direct interaction, and email marketing
+        for personalized communication. Digital advertising, including display, PPC, and social
+        media ads, widens reach and allows for performance tracking. The data-driven nature
+        of digital marketing provides real-time insights for continuous improvement, making it
+        an indispensable strategy for businesses in today\'s digital age.
+        </string>
+
+    <string name="soap">Information:-\n
+        Soap making blends science and creativity, involving the chemical process of
+        saponification where oils and an alkaline solution create soap and glycerin. Crafters
+        choose oils, fragrances, and additives to customize characteristics like scent and
+        texture. From traditional bars to innovative shapes and colors, soap making offers
+        endless possibilities. Enthusiasts experiment with unique ingredients and techniques,
+        embracing it as a fulfilling hobby or small business. The craft\'s popularity stems from
+        personalized touches, natural ingredients, and environmental sustainability, resonating
+        with consumers seeking artisanal products.
+        </string>
+    <string name="iae">Information:-\n
+        Import and export are vital components of international trade, enabling the exchange
+        of goods and services between countries. Import involves buying foreign products,
+        broadening domestic market options, and accessing resources. Export entails selling
+        domestically produced goods abroad, fostering economic growth. The balance
+        between imports and exports influences a country\'s trade balance and economic
+        stability. Governed by trade policies and regulations, these activities promote
+        international cooperation, economic development, and cultural exchange. Effectively
+        managing import and export enhances a nation\'s economic competitiveness and
+        global integration.
+        </string>
+    <string name="paper">Information:-\n
+        Paper bag making is a sustainable craft using recyclable and biodegradable materials
+        to create eco-friendly alternatives to plastic bags. The process involves cutting,
+        folding, and gluing paper to produce sturdy bags of various shapes and sizes.
+        Entrepreneurs and artisans often turn this craft into a small-scale business, offering
+        personalized designs. Beyond economic potential, paper bag making aligns with
+        global efforts for environmentally responsible practices, addressing the issue of
+        single-use plastic bags. With increasing consumer demand for sustainable options,
+        paper bag making blends functionality with ecological consciousness, promoting a
+        greener and more responsible approach to packaging and everyday carry.
+        </string>
+
+    <string name="ent">
+        Information:-\n
+        Entrepreneur Awareness Programme provides knowledge and skills for business
+        ventures, covering ideation, market research, financial planning, and risk management.
+        The initiative includes workshops, seminars, mentorship, and practical exercises to
+        encourage innovation and economic growth. Enhancing awareness and competencies
+        contributes to a dynamic business ecosystem, fostering resilience and empowering
+        participants. The program also offers insights into industry trends and networking
+        opportunities.
+        </string>
+
+    <string name="spices">Information:-\n
+        Spice making is an ancient craft involving the skillful blending and processing of herbs
+        and spices to create aromatic mixtures that enhance the richness of dishes. The
+        process starts with sourcing high-quality raw spices, which are carefully measured and
+        ground to unlock their unique flavors. Skilled spice makers create proprietary blends,
+        combining spices in precise ratios to craft signature seasoning mixes. This art not only
+        adds depth to cuisines but also allows for the creation of diverse and culturally
+        significant flavor profiles. From traditional spice markets to modern kitchens, spice
+        making plays a vital role in elevating the culinary experience and connecting people to
+        a global tapestry of flavors.
+        </string>
+
+    <string name="palm">Information:-\n
+        Palm leaf article making is a traditional craft where artisans skillfully transform palm
+        leaves into practical and artistic items like baskets, mats, and hats. The process
+        involves harvesting, drying, and softening mature palm leaves, followed by weaving
+        using traditional techniques passed down through generations. These creations serve
+        both practical and eco-friendly purposes, offering alternatives to modern materials,
+        while also reflecting the cultural heritage of the communities practicing this craft. Palm
+        leaf article making showcases resourcefulness, preserves traditional craftsmanship,
+        and provides insight into the artistry and cultural identity of those involved in this
+        age-old practice.
+        </string>
+
+    <string name="perfume">Information:-\n
+        Perfume making is an artful process that involves blending essential oils, aromatic
+        compounds, and fixatives to create unique scents. Perfumers, or "noses," select and
+        combine fragrance notes to achieve harmonious profiles, including top, middle, and
+        base notes. Essential oils are extracted from botanical sources and skillfully blended in
+        precise ratios to craft the desired fragrance. Fixatives are added for longevity. This
+        intersection of science and art allows individuals to express individuality through
+        olfactory experiences, with the industry offering a diverse range of classic, niche,
+        and custom blends. Perfume making is a dynamic realm of sensory artistry beyond
+        personal grooming.
+        </string>
+
+    <string name="chocolate">
+        Information:-\n
+        Chocolate making is a delightful culinary craft involving transforming cocoa beans into
+        treats. The process includes harvesting, fermenting, roasting, and grinding cocoa
+        beans to produce cocoa mass. Skilled chocolatiers temper the chocolate for texture,
+        gloss, and snap. Ingredients like sugar, milk, and flavors are added, and melted
+        chocolate is molded into various shapes before controlled cooling. Experimentation
+        results in a range of flavors and textures, from classic milk chocolate to rich dark
+        varieties. Chocolate making, an art that brings worldwide joy, combines tradition and
+        innovation to produce tempting confections.
+        </string>
+
+    <string name="screen1">Sign in or\n Register</string>
+    <string name="screen2">Choose Courses</string>
+    <string name="screen3">Easy Booking</string>
+    <string name="screen1desc"> Access your account or create a new one to get started.</string>
+    <string name="screen2desc">Browse through available courses and select the one that suits your interests or needs.</string>
+    <string name="screen3desc"> Streamlined process for reserving your spot in the selected course with minimal hassle.</string>
+    <string name="startDesc">Discover an extensive selection of courses covering various subjects and disciplines to meet your learning needs and preferences.</string>
+
+    <string name="selftime">Date:- 22/05/2024, Time:-6:00 PM,\n Duration:- 1 hrs, Trainer Name:- Aryan Tambe</string>
+    <string name="LTGtime"> Date :- 23/05/2024, Time:-4:00 PM,\n Duration:- 3 hrs, Trainer Name:- Chirag Choudhari</string>
+    <string name="womentime">Date :- 21/05/2024, Time:-5:00 PM,\n Duration:- 2 hrs, Trainer Name:- Pratik Maske</string>
+    <string name="Personalitytime"> Date :- 24/05/2024, Time:-3:00 PM,\n Duration:- 2 hrs, Trainer Name:- Chaitanya Bhat</string>
+    <string name="Financetime">Date :- 26/05/2024, Time:-2:00 PM,\n Duration:- 1 hrs, Trainer Name:- Soham Parab</string>
+
+    <string name="Digitime">Date :- 23/05/2024, Time:-5:00 PM,\n Duration:- 2 days, Trainer Name:- Pratik Maske</string>
+    <string name="Soaptime">Date :– 22/05/2024, Time:-6:00 PM,\n Duration:- 1-2 days, Trainer Name:- Aryan Tambe</string>
+    <string name="IAEtime"> Date :- 24/05/2024, Time:-4:00 PM,\n Duration:- 2 days, Trainer Name:- Soham Parab</string>
+    <string name="Papertime">Date:- 22/05/2024, Time:-6:00 PM,\n Duration:- 1 days, Trainer Name:- Aryan Tambe</string>
+    <string name="Entretime"> Date :- 27/05/2024, Time:-6:00 PM,\n Duration:- 1 days, Trainer Name:- Soham Parab</string>
+
+    <string name="Candletime">Date :- 27/5/2024, Time:-1:00 PM,\n Duration:- 1 week, Trainer Name:- Aryan Tambe</string>
+    <string name="Spicestime">Date :-22/05/2024, Time:- 6:00 PM,\n Duration:- 1 week, Trainer Name:- Aryan Tambe</string>
+    <string name="Palmtime">Date :- 23/05/2024, Time:-5:00 PM,\n Duration:- 1 week, Trainer Name:- Aryan Tambe</string>
+    <string name="Perfumetime">Date :- 4/05/2024, Time:-4:00 PM,\n Duration:- 2 week, Trainer Name:- Pratik Maske</string>
+    <string name="Chocotime">Date :- 26/05/2024, Time:-2:00 PM,\n Duration:- 1 week, Trainer Name:- Pratik Maske</string>
+
+
+
+
+</resources>
+
